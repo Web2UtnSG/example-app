@@ -1,0 +1,1 @@
+<h1>Muestra la informacion de la pelicula {{ $id }}</h1>
